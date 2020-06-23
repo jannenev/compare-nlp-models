@@ -1,0 +1,9 @@
+.ipynb_checkpoints
+*.pt
+dataset_businessnews/data/
+dataset_businessnews/input/
+dataset_hatespeech/data/
+dataset_hatespeech/input/
+tf-hub-output/
+
+
